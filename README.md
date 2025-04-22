@@ -1,16 +1,2 @@
-# wheel_drag_game
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20250422_200815](https://github.com/user-attachments/assets/01afec2c-0d3d-4535-8b32-a7dbf9343c52)
+![Screenshot_20250422_200941](https://github.com/user-attachments/assets/364d109e-6794-4afb-87eb-a159f4463c4e)
